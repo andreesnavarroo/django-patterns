@@ -33,5 +33,4 @@ Para ejecutar la aplicación localmente, sigue estos pasos:
 
 Las contribuciones son bienvenidas. Si deseas colaborar en el proyecto, por favor abre un issue o una pull request para discutir los cambios propuestos.
 
-Espero que este README te sirva como punto de partida para tu proyecto. Si necesitas más ayuda con algo, no dudes en preguntar.
 
